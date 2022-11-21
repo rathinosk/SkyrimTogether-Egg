@@ -6,8 +6,8 @@
     },
     "exported_at": "2022-08-18T16:33:34-07:00",
     "name": "SkyrimTogether",
-    "author": "haydenandreyka@gmail.com",
-    "description": "Pterodactyl egg to host SkyrimTogether servers (AKA TiltedEvolution)\r\n\r\nSimply reinstall the server to update to the latest version of this mod. Unfortunately due to technical limitations, this egg will need significant modifications to support playing older versions of the mod.\r\n\r\nDo not use this Egg to create and host servers for profit. Commercial use of the mod is forbidden by the developers.",
+    "author": "rathinosk@gmail.com",
+    "description": "Pterodactyl egg to host SkyrimTogether servers (AKA TiltedEvolution)\r\n\r\nSimply reinstall the server to update to the latest version of this mod. Unfortunately due to technical limitations, this egg will need significant modifications to support playing older versions of the mod.\r\n\r\nDo not use this Egg to create and host servers for profit. Commercial use of the mod is forbidden by the developers.\r\n\r\nOriginal Egg by Hayden Andreyka (Technoguyfication) haydenandreyka@gmail.com",
     "features": null,
     "docker_images": {
         "rathinosk\/skyrimtogether-egg:yolk": "rathinosk\/skyrimtogether-egg:yolk",
