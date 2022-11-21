@@ -4,7 +4,7 @@ This is a Pterodactyl Egg for the multiplayer Skyrim mod [Skyrim Together](https
 
 ## How to install:
 
-1. [Download](https://raw.githubusercontent.com/Technoguyfication/SkyrimTogether-Egg/master/egg-skyrim-together.json) the Egg file **(right-click and Save as..)**
+1. [Download](https://raw.githubusercontent.com/Rathinosk/SkyrimTogether-Egg/master/egg-skyrim-together.json) the Egg file **(right-click and Save as..)**
 2. Visit the Nests tab of the admin section of your panel
 3. Create a new Nest for the Egg or use an existing one (do NOT use a default Nest)
 4. Press Import Egg and select the Egg file you downloaded
