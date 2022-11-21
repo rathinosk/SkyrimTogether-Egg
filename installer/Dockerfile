@@ -1,6 +1,6 @@
 FROM tiltedphoques/st-reborn-server:latest as base
 
-FROM alpine:latest as final
+FROM ubuntu:jammy as final
 
 # Note: The install script run on the container will copy the files out of this image and onto the persistent mounted storage on the Pterodactyl server.
 
